@@ -1,2 +1,1 @@
-Probleme rezolvate
-Project Euler
+# Git Tutorial (Basics)	
