@@ -5,9 +5,10 @@
 - [About](#about)
 - [Install](#install)
 - [Getting Started](#getting-started)
-  - [Setting up](#set-up)
-  - [Starting a Repo](#starting-repo)
-	-[GIT Work Flow](#git-work-flow)
+  - [Setting up](#setting-up)
+  - [Starting a Repo](#starting-a-repo)
+  - [GIT Work Flow](#git-work-flow)
+
 
 
 ## About
